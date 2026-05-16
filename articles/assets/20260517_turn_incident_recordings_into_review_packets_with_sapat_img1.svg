@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+  <title id="title">Incident recording to review packet workflow</title>
+  <desc id="desc">A four-step workflow from raw recording to transcript, review packet, and follow-up actions.</desc>
+  <rect width="1200" height="520" fill="#f7f9fc"/>
+  <text x="80" y="72" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="700" fill="#172033">From recording to review packet</text>
+  <text x="80" y="112" font-family="Inter, Arial, sans-serif" font-size="18" fill="#536071">A simple Daytona + Sapat workflow for engineering incident calls</text>
+
+  <g font-family="Inter, Arial, sans-serif">
+    <rect x="80" y="180" width="210" height="150" rx="18" fill="#ffffff" stroke="#cfd8e3"/>
+    <text x="110" y="226" font-size="22" font-weight="700" fill="#172033">Raw recording</text>
+    <text x="110" y="263" font-size="16" fill="#536071">Incident call,</text>
+    <text x="110" y="289" font-size="16" fill="#536071">support escalation,</text>
+    <text x="110" y="315" font-size="16" fill="#536071">or war-room video</text>
+
+    <path d="M315 255 H390" stroke="#7b8da3" stroke-width="4" stroke-linecap="round"/>
+    <path d="M382 242 L402 255 L382 268" fill="none" stroke="#7b8da3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <rect x="425" y="180" width="210" height="150" rx="18" fill="#ffffff" stroke="#cfd8e3"/>
+    <text x="455" y="226" font-size="22" font-weight="700" fill="#172033">Sapat pass</text>
+    <text x="455" y="263" font-size="16" fill="#536071">ffmpeg extracts</text>
+    <text x="455" y="289" font-size="16" fill="#536071">audio, then provider</text>
+    <text x="455" y="315" font-size="16" fill="#536071">writes transcript</text>
+
+    <path d="M660 255 H735" stroke="#7b8da3" stroke-width="4" stroke-linecap="round"/>
+    <path d="M727 242 L747 255 L727 268" fill="none" stroke="#7b8da3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <rect x="770" y="180" width="210" height="150" rx="18" fill="#ffffff" stroke="#cfd8e3"/>
+    <text x="800" y="226" font-size="22" font-weight="700" fill="#172033">Review packet</text>
+    <text x="800" y="263" font-size="16" fill="#536071">Timeline, decisions,</text>
+    <text x="800" y="289" font-size="16" fill="#536071">open questions,</text>
+    <text x="800" y="315" font-size="16" fill="#536071">and owners</text>
+
+    <path d="M1005 255 H1080" stroke="#7b8da3" stroke-width="4" stroke-linecap="round"/>
+    <path d="M1072 242 L1092 255 L1072 268" fill="none" stroke="#7b8da3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <circle cx="1118" cy="255" r="48" fill="#0f7b6c"/>
+    <path d="M1098 256 l14 15 l27 -33" fill="none" stroke="#ffffff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <rect x="80" y="390" width="1040" height="54" rx="14" fill="#eaf2ff"/>
+  <text x="108" y="424" font-family="Inter, Arial, sans-serif" font-size="18" fill="#23324a">Keep the recording, transcript, and packet together so every follow-up can be checked later.</text>
+</svg>
